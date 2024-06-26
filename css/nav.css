@@ -1,0 +1,14 @@
+.name{
+    text-align: center; font-size: 30px;
+    margin-top: 20px;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 2px solid #b5b5b5;
+    
+}
+.nav-item {
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
