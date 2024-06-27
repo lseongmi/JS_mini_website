@@ -75,3 +75,21 @@ select {
     margin-top: 200px;
     margin-bottom: 10px;
 }
+
+.footer {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    background-color: #F2F2F2;
+    padding-bottom: 50px;
+}
+
+.footer-title {
+    font-size: 20px;
+}
+
+.footer > .footer-container >  p{
+    margin-top: 50px;
+    margin-bottom: 30px;
+} 
