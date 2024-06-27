@@ -1,0 +1,60 @@
+.main {
+    width: 100%;
+}
+
+.up-section {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    padding-bottom: 50px;
+    border-bottom: 2px solid #b5b5b5;
+}
+
+.up-section > img {
+    width: 400px;
+}
+
+.up-section> div > svg, p {
+    margin-left: 50px;
+}
+
+.up-section> div > svg, span {
+    font-size: 20px;
+}
+
+.up-section> div > div > span {
+    margin-left: 10px;
+}
+
+#title {
+    font-size: 25px;
+}
+
+
+.icon-container {
+    display: flex;
+    padding-left: 50px;
+    margin-top: 10px;
+    
+}
+
+.reference-container {
+    display: flex;
+    flex-direction: column;
+    gap: 90px;
+    margin-top: 50px;
+}
+
+select {
+    width: 80%;
+    height: 25px;
+    margin-left: 50px;
+}
+.reference-container > div{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.reference-container > div > span {
+    margin-left: 50px;
+}

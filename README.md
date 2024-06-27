@@ -1,1 +1,0 @@
-# JS_mini_website
