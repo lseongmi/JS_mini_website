@@ -14,7 +14,7 @@
     width: 400px;
 }
 
-.up-section> div > svg, p {
+.up-section> div > svg {
     margin-left: 50px;
 }
 
@@ -28,6 +28,7 @@
 
 #title {
     font-size: 25px;
+    margin-left: 50px;
 }
 
 
@@ -57,4 +58,20 @@ select {
 
 .reference-container > div > span {
     margin-left: 50px;
+}
+
+.img-section {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.img-section > img {
+    width: 400px;
+}
+
+.img-section > p {
+    margin-top: 200px;
+    margin-bottom: 10px;
 }
