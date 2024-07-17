@@ -1,0 +1,48 @@
+.main-img {
+    height: 700px;
+    position: relative;
+}
+
+.main-img > img {
+    width: 100%;
+    position: absolute;
+}
+
+.main-img > span {
+    position: absolute;
+    margin-top: 30rem;
+    padding-left: 13rem;
+    font-size: 20px;
+    color: #fff;
+}
+
+.main-section > p {
+    padding-left: 8rem;
+    font-size: 25px;
+    margin-bottom: 5rem;
+}
+
+.text-product {
+    display: flex;
+}
+
+.product-All {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+
+.product > img {
+    max-width: 80%;
+}
+
+.product > .text-product {
+    margin-top: 10px;
+}
+
+.text-product > #point {
+    padding-left: 10px;
+}
+
